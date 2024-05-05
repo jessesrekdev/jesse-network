@@ -1,0 +1,14 @@
+[
+    {
+        "title": "Internet Service",
+        "note": "Browser and explore for all amazing and exclusive features at https://jesse-network.com. Requires a good internet connection to access. User: online !",
+    },
+    {
+        "title": "QR Code Generator",
+        "note": "A new feature where a user is able to generate QR Codes easily without any form of sign ups and can save the images to phone storage to be shared with others. API src: https://qrcode.jesse-network.com" 
+    },
+    {
+        "title": "Link Shortener",
+        "note": "This is a new feature where a user is able to convert his/her long links into a very short link to be shared easily on social media platforms 😀." 
+    }
+]
