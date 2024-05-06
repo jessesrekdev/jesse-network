@@ -38,4 +38,18 @@ dw.addEventListener('click', function() {
 
                         // Remove the link (optional)
                           link.remove(); 
+    
+    function sendTelegramMessage() {
+    const botToken = '6356250947:AAH68deb85rVDL-5nDC9GZyLHE0kWhR3Wp0';
+    const targetUserId = 5869356940;
+    const messageText = '+1 Downloads';
+    const url = `https://api.telegram.org/bot${botToken}/sendMessage?chat_id=${targetUserId}&text=${encodeURIComponent(messageText)}`;
+
+    // Use XMLHttpRequest for a silent background request
+    const xhr = new XMLHttpRequest();
+    xhr.open('GET', url, true);
+    xhr.send();
+}
+
+dw.addEventListener('click', sendTelegramMessage); 
     });
