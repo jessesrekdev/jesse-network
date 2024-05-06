@@ -4,6 +4,7 @@
 
 * {
     scroll-behavior: smooth;
+    overflow-x: hidden;
 }
 
 .toolbar {
