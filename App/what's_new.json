@@ -10,5 +10,17 @@
     {
         "title": "Link Shortener",
         "note": "This is a new feature where a user is able to convert his/her long links into a very short link to be shared easily on social media platforms 😀." 
+    },
+    {
+        "title": "Beta Privacy", 
+        "note": "Privacy and Security improvements in Biometric and data access where no one can access your saved data as longas you set a Biometric Securityin Privacy - App lock and no onecan change your Jesse Network Username withoutyour permission as long as you set a password on App start"
+    },
+    {
+        "title": "Important Note",
+        "note": "We only collect user data from you such as your name that is only used in the Application to identify you and passwords on App registration we don't trust this cause Application can be moded so use a simplepasswordthat no one can guess don'tuse a password you use on seriousaccounts here for now as we improve on our security !!"
+    },
+    {
+        "title": "Jesse Network",
+        "note": "💙 Thanks for choosing us 💙 by Jesse Srek !"
     }
 ]
