@@ -200,8 +200,10 @@ li,ul {
 
 .screenshot2 {
     border-radius: 1em;
-    height: 30em;
+    height: 26em;
     width: auto;
+    margin-left: 0;
+    margin-right: 0;
 }
 
 #updatesvg {
