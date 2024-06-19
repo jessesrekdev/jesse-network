@@ -1,7 +1,8 @@
 [
     {
         "image_url": "https://example.com/image1.jpg",
-        "title": "Image 1"
+        "title": "Image 1",
+        "vid":"https://umh.sfo3.digitaloceanspaces.com/UPTOWN%20GIRLS%20VJ%20JUNIOR.m4v"
     },
     {
         "image_url": "https://example.com/image2.jpg",
