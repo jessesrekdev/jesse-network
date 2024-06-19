@@ -1,0 +1,11 @@
+[
+    {
+        "image_url": "https://example.com/image1.jpg",
+        "title": "Image 1"
+    },
+    {
+        "image_url": "https://example.com/image2.jpg",
+        "title": "Image 2"
+    },
+    ...
+]
