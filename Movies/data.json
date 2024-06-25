@@ -1,11 +1,17 @@
 [
     {
-        "image_url": "https://example.com/image1.jpg",
-        "title": "Image 1",
+        "image_url": "http://localhost:3000/videos/Snapchat-1840290462.jpg",
+        "title": "Spider-Man No way home",
         "vid":"https://umh.sfo3.digitaloceanspaces.com/UPTOWN%20GIRLS%20VJ%20JUNIOR.m4v"
     },
     {
-        "image_url": "https://example.com/image2.jpg",
-        "title": "Image 2"
+        "image_url": "http://localhost:3000/videos/Snapchat-1840290462.jpg",
+        "title": "Spider-Man No way home",
+        "vid":"https://umh.sfo3.digitaloceanspaces.com/UPTOWN%20GIRLS%20VJ%20JUNIOR.m4v"
+    },
+    {
+        "image_url": "http://localhost:3000/videos/Snapchat-1840290462.jpg",
+        "title": "Spider-Man No way home",
+        "vid":"https://umh.sfo3.digitaloceanspaces.com/UPTOWN%20GIRLS%20VJ%20JUNIOR.m4v"
     }
 ]
